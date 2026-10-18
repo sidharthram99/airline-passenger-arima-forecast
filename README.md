@@ -55,7 +55,7 @@ Python · Pandas · NumPy · Matplotlib · Statsmodels (ADF test, ACF/PACF, ARIM
 
 ## 🖼️ Charts
 
-![Original series](images/original_series.png)
+![Original series](https://github.com/sidharthram99/airline-passenger-arima-forecast/blob/main/Image/original_series.png)
 ![Test vs predicted](images/test_vs_predicted.png)
 ![Forecast 1961-1962](images/forecast.png)
 
