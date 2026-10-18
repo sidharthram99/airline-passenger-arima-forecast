@@ -11,7 +11,7 @@ To forecast future airline passenger demand from historical monthly data, which 
 
 ## 🗂️ Dataset
 
-- **Source:** [Dataset name and link, e.g. Kaggle / Box-Jenkins airline data]
+- **Source:** [airline_passengers.csv, https://github.com/sidharthram99/airline-passenger-arima-forecast/blob/main/airline_passengers.csv]
 - **Period:** January 1949 to December 1960 (144 monthly observations)
 - **Column:** `Thousands of Passengers` (monthly total, in thousands)
 
